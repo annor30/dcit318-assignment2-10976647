@@ -1,0 +1,14 @@
+c:\Users\ramso\Desktop\Interfaces demo\bin\Debug\net8.0\Interfaces demo.exe
+c:\Users\ramso\Desktop\Interfaces demo\bin\Debug\net8.0\Interfaces demo.deps.json
+c:\Users\ramso\Desktop\Interfaces demo\bin\Debug\net8.0\Interfaces demo.runtimeconfig.json
+c:\Users\ramso\Desktop\Interfaces demo\bin\Debug\net8.0\Interfaces demo.dll
+c:\Users\ramso\Desktop\Interfaces demo\bin\Debug\net8.0\Interfaces demo.pdb
+c:\Users\ramso\Desktop\Interfaces demo\obj\Debug\net8.0\Interfaces demo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ramso\Desktop\Interfaces demo\obj\Debug\net8.0\Interfaces demo.AssemblyInfoInputs.cache
+c:\Users\ramso\Desktop\Interfaces demo\obj\Debug\net8.0\Interfaces demo.AssemblyInfo.cs
+c:\Users\ramso\Desktop\Interfaces demo\obj\Debug\net8.0\Interfaces demo.csproj.CoreCompileInputs.cache
+c:\Users\ramso\Desktop\Interfaces demo\obj\Debug\net8.0\Interfaces demo.dll
+c:\Users\ramso\Desktop\Interfaces demo\obj\Debug\net8.0\refint\Interfaces demo.dll
+c:\Users\ramso\Desktop\Interfaces demo\obj\Debug\net8.0\Interfaces demo.pdb
+c:\Users\ramso\Desktop\Interfaces demo\obj\Debug\net8.0\Interfaces demo.genruntimeconfig.cache
+c:\Users\ramso\Desktop\Interfaces demo\obj\Debug\net8.0\ref\Interfaces demo.dll

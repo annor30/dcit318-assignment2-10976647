@@ -1,0 +1,14 @@
+c:\Users\ramso\Desktop\10976647 ty\bin\Debug\net8.0\10976647 ty.exe
+c:\Users\ramso\Desktop\10976647 ty\bin\Debug\net8.0\10976647 ty.deps.json
+c:\Users\ramso\Desktop\10976647 ty\bin\Debug\net8.0\10976647 ty.runtimeconfig.json
+c:\Users\ramso\Desktop\10976647 ty\bin\Debug\net8.0\10976647 ty.dll
+c:\Users\ramso\Desktop\10976647 ty\bin\Debug\net8.0\10976647 ty.pdb
+c:\Users\ramso\Desktop\10976647 ty\obj\Debug\net8.0\10976647 ty.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ramso\Desktop\10976647 ty\obj\Debug\net8.0\10976647 ty.AssemblyInfoInputs.cache
+c:\Users\ramso\Desktop\10976647 ty\obj\Debug\net8.0\10976647 ty.AssemblyInfo.cs
+c:\Users\ramso\Desktop\10976647 ty\obj\Debug\net8.0\10976647 ty.csproj.CoreCompileInputs.cache
+c:\Users\ramso\Desktop\10976647 ty\obj\Debug\net8.0\10976647 ty.dll
+c:\Users\ramso\Desktop\10976647 ty\obj\Debug\net8.0\refint\10976647 ty.dll
+c:\Users\ramso\Desktop\10976647 ty\obj\Debug\net8.0\10976647 ty.pdb
+c:\Users\ramso\Desktop\10976647 ty\obj\Debug\net8.0\10976647 ty.genruntimeconfig.cache
+c:\Users\ramso\Desktop\10976647 ty\obj\Debug\net8.0\ref\10976647 ty.dll

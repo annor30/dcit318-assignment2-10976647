@@ -1,0 +1,14 @@
+c:\Users\ramso\Desktop\abstract demo\bin\Debug\net8.0\abstract demo.exe
+c:\Users\ramso\Desktop\abstract demo\bin\Debug\net8.0\abstract demo.deps.json
+c:\Users\ramso\Desktop\abstract demo\bin\Debug\net8.0\abstract demo.runtimeconfig.json
+c:\Users\ramso\Desktop\abstract demo\bin\Debug\net8.0\abstract demo.dll
+c:\Users\ramso\Desktop\abstract demo\bin\Debug\net8.0\abstract demo.pdb
+c:\Users\ramso\Desktop\abstract demo\obj\Debug\net8.0\abstract demo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ramso\Desktop\abstract demo\obj\Debug\net8.0\abstract demo.AssemblyInfoInputs.cache
+c:\Users\ramso\Desktop\abstract demo\obj\Debug\net8.0\abstract demo.AssemblyInfo.cs
+c:\Users\ramso\Desktop\abstract demo\obj\Debug\net8.0\abstract demo.csproj.CoreCompileInputs.cache
+c:\Users\ramso\Desktop\abstract demo\obj\Debug\net8.0\abstract demo.dll
+c:\Users\ramso\Desktop\abstract demo\obj\Debug\net8.0\refint\abstract demo.dll
+c:\Users\ramso\Desktop\abstract demo\obj\Debug\net8.0\abstract demo.pdb
+c:\Users\ramso\Desktop\abstract demo\obj\Debug\net8.0\abstract demo.genruntimeconfig.cache
+c:\Users\ramso\Desktop\abstract demo\obj\Debug\net8.0\ref\abstract demo.dll
